@@ -25,9 +25,9 @@ Siswa Login
 Petugas Login
 1. Akun Petugas 1
 - username: petugas
-- password: pet123
+- password: pet1
 
 Admin Login
 1. Akun Admin 1
 - username: admin
-- password: adm123
+- password: adm1
